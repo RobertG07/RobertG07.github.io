@@ -3,7 +3,8 @@ body {
 }
 
 canvas {
-  background-color: lightgray;
+  background-image: url("https://images3.alphacoders.com/129/1292576.jpeg");
+  background-size: cover;
 }
 
 img {
